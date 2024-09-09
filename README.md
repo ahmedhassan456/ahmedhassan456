@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to my GitHub Profile!
+
+Hi there! 👋  
+I'm Ahmed Saqr, a passionate developer with a focus on AI, Machine Learning, and software development.  
+Feel free to explore my projects, contribute, or reach out if you have any questions!
 
 <!--
 **ahmedhassan456/ahmedhassan456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
